@@ -2,7 +2,6 @@
 import subprocess
 import sys
 import time
-import pyautogui
 import random
 from http_request_randomizer.requests.proxy.requestProxy import RequestProxy
 from selenium import webdriver
